@@ -1,0 +1,3 @@
+# I use this folder to put built executables
+# from C programs.
+build/
