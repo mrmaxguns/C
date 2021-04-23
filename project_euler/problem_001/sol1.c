@@ -1,4 +1,8 @@
 /*
+ * The problem is taken from https://projecteuler.net/problem=001
+ * Copyright (C) 2021 Maxim Rebguns. Licensed under MIT. See the
+ * LICENSE file for details. 
+ *
  * Problem
  * =======
  * If we list all the natural numbers below 10 that are multiples
