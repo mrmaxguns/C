@@ -33,11 +33,11 @@
  * Get the sum of all even fibonacci numbers that are less
  * than `max`.
  */
-signed int solution(signed int max)
+unsigned int solution(unsigned int max)
 {
-    signed int value_a = 1;
-    signed int value_b = 2;
-    signed int sum     = 2;
+    unsigned int value_a = 1;
+    unsigned int value_b = 2;
+    unsigned int sum     = 2;
 
     // If max is a small number, then the answer
     // is immediately returned.
