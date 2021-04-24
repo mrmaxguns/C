@@ -69,7 +69,7 @@ int main(void)
 {
     // Get the solution where the max
     // number is 4 million.
-    printf("%d\n", solution(4000000));
+    printf("%u\n", solution(4000000));
 
     return 0;
 }
